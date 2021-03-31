@@ -1,0 +1,9 @@
+.*
+!.gitignore
+custom-images/*
+logs/*
+models/*
+temp/*
+test/*
+train/*
+*.csv

@@ -2,7 +2,7 @@
 
 ## Summary
 
-Diego is a `Deep Learning Neural Network` model build using `Python` & `TensorFlow`. It can identify a dog's breed.
+Diego is a `Deep Learning Neural Network` model built using `Python` & `TensorFlow`. It can identify a dog's breed.
 For training the model I've used the [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification/data)
 dataset. The project is created in `Jupyter Notebook`.
 
